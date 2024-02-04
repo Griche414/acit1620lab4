@@ -1,5 +1,8 @@
 .wrapper {
-    background: black;
+    background: lightskyblue;
 
 }
 
+:root {
+    --base-color: 210, 50%;
+  }
